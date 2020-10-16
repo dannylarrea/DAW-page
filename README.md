@@ -2,6 +2,6 @@
 ## Desarrolladores:
 - Danny
     - Tarea: poner la plantilla del trabajo
-- ...
-    - Tarea: ...
+- Alex Rodriguez
+    - Tarea: Dia 11 y 30.
 
