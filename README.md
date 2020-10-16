@@ -5,6 +5,9 @@
 
 - Luis
     - Tarea: Poner sábado 25 octubre.
-- ...
-    - Tarea: ...
+    
+- Sergio
+    - Tarea: poner el dia 14 oct.
 
+- Fran
+    - Tarea: poner el dia 16 oct
