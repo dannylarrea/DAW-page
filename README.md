@@ -12,3 +12,5 @@
     - Tarea: poner el dia 16 oct.
 - Xavi
     - Tarea: poner el dia 9 oct y quitar comentario css.
+- Alex
+    - Tarea: poner el dia 27 oct.
