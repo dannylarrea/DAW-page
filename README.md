@@ -1,4 +1,7 @@
 # DAW-page
-## Integrantes
-- Danny MacBook
-- Danny Local
+## Desarrolladores:
+- Danny
+    - Tarea: ...
+- ...
+    - Tarea: ...
+
