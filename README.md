@@ -2,6 +2,7 @@
 ## Desarrolladores:
 - Danny
     - Tarea: poner la plantilla del trabajo
-- ...
-    - Tarea: ...
+- Toni
+    - Tarea: He añadido el día 17.
+
 
