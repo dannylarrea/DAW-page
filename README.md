@@ -2,6 +2,6 @@
 ## Desarrolladores:
 - Danny
     - Tarea: poner la plantilla del trabajo
-- ...
-    - Tarea: ...
+- Albert
+    - Tarea: Poner dia 20
 
