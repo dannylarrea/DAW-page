@@ -2,6 +2,5 @@
 ## Desarrolladores:
 - Danny
     - Tarea: poner la plantilla del trabajo
-- ...
-    - Tarea: ...
-
+- Pablo 
+    - Tarea: poner dia 15
