@@ -134,9 +134,8 @@ body {
         padding: 10px;
         width: 20%;
     }
-    /*ocultar el html relacionado a la clase sab-dom
+    /*ocultar el html relacionado a la clase sab-dom*/
     .sab-dom {
         display: none;
     }
-    */
 }
