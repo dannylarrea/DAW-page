@@ -2,6 +2,6 @@
 ## Desarrolladores:
 - Danny
     - Tarea: poner la plantilla del trabajo
-- ...
-    - Tarea: ...
+- Eloi
+    - Tarea: poner dia Sabado 10 de Octubre
 
