@@ -2,6 +2,8 @@
 ## Desarrolladores:
 - Danny
     - Tarea: poner la plantilla del trabajo.
+- Alex Rodriguez
+    - Tarea: Dia 11 y 30.
 - Luis
     - Tarea: Poner sábado 25 octubre.
 - Jon
