@@ -2,6 +2,6 @@
 ## Desarrolladores:
 - Danny
     - Tarea: poner la plantilla del trabajo
-- ...
-    - Tarea: ...
+- Jon
+    - Tarea: Lunes 5 de Octubre
 
