@@ -2,6 +2,8 @@
 ## Desarrolladores:
 - Danny
     - Tarea: poner la plantilla del trabajo
+- David
+    - Tarea: añadir el dia 21.
 - Victor
     - Tarea: poner el dia 19.
 - Judit Fernandez
