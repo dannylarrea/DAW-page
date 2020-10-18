@@ -30,3 +30,5 @@
     - Tarea: poner el dia 27 oct.
 -Carlos
     -Tarea: poner el dia 22 oct.
+-Samuel
+    -Tarea: poner el dia 24 oct.
