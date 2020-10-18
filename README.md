@@ -24,5 +24,6 @@
     - Tarea: poner el dia 9 oct y quitar comentario css.
 - Alex
     - Tarea: poner el dia 27 oct.
+    
 -Carlos
     -Tarea: poner el dia 22 oct.
