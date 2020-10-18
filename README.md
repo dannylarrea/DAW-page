@@ -4,4 +4,4 @@
     - Tarea: poner la plantilla del trabajo
 
 - Carlos 
-    - Tarea: hacer el día 22,
+    - Tarea: hacer el día 22.
