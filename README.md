@@ -32,3 +32,5 @@
     -Tarea: poner el dia 22 oct.
 -Samuel
     -Tarea: poner el dia 24 oct.
+- Manel
+    - Tarea: poner el día 8 y 28
