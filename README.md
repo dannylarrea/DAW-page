@@ -2,12 +2,8 @@
 ## Desarrolladores:
 - Danny
     - Tarea: poner la plantilla del trabajo
-<<<<<<< HEAD
 - Toni
     - Tarea: He añadido el día 17.
-
-
-=======
 - Pablo 
     - Tarea: poner dia 15
 - Óscar
@@ -44,6 +40,5 @@
     -Tarea: poner el dia 24 oct.
 - Manel
     - Tarea: poner el día 8 y 28
->>>>>>> 52eeba5a7de5d2c17c5e196d14955905395d635a
 - Oriol
     - Tarea: descomentar el css
