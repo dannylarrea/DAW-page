@@ -45,3 +45,5 @@
 - Manel
     - Tarea: poner el día 8 y 28
 >>>>>>> 52eeba5a7de5d2c17c5e196d14955905395d635a
+- Oriol
+    - Tarea: descomentar el css
