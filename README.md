@@ -42,3 +42,5 @@
     - Tarea: poner el día 8 y 28
 - Oriol
     - Tarea: descomentar el css
+- Dani
+    - Tarea: poner el dia 26 oct.
