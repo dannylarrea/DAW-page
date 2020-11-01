@@ -1,0 +1,144 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Quicksand', sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+
+/* Style the header */
+
+.header {
+    background-image: url('../img/pexels-fauxels-3184460.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 10% 20px;
+    text-align: center;
+    background-position: top;
+}
+
+.header h1 {
+    font-size: 60px;
+}
+
+.header p {
+    font-size: 40px;
+}
+
+
+/* One column */
+
+.one-column {
+    float: left;
+    padding: 20px 20%;
+    width: 100%;
+}
+
+.one-column h1,
+.one-column h2 {
+    text-align: center;
+}
+
+#cadetblue {
+    background-color: cadetblue;
+}
+
+
+/* Clear floats after the columns */
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+/*Two columns*/
+
+.two-column {
+    padding: 20px;
+    float: left;
+    width: 50%;
+}
+
+
+/*Three columns gallery*/
+
+.three-column {
+    padding: 20px;
+    float: left;
+    width: 33.33%;
+}
+
+.three-column img {
+    width: 100%;
+}
+
+.three-column .desc {
+    padding: 10px;
+    text-align: center;
+}
+
+
+/*Four columns*/
+
+.four-column {
+    padding: 20px;
+    float: left;
+    width: 25%;
+}
+
+.seven-column {
+    padding: 20px;
+    float: left;
+    width: 14.28%;
+}
+
+.sab-dom {
+    background-color: beige;
+}
+
+
+/*FOOTER*/
+
+#footer-a {
+    background-color: #21252995;
+}
+
+#footer-a p {
+    color: white;
+}
+
+#footer-b {
+    color: white;
+    background-color: #212529;
+    text-align: center;
+}
+
+#exemple {
+    background-color: white;
+}
+
+
+/* Responsive layout */
+
+@media screen and (max-width:900px) {
+    .two-column,
+    .three-column,
+    .four-column {
+        width: 100%;
+    }
+    .seven-column {
+        padding: 10px;
+        width: 20%;
+    }
+    /*ocultar el html relacionado a la clase sab-dom*/ 
+    .sab-dom {
+        display: none;
+    }
+
+
+    /**/
+}
