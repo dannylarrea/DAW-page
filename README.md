@@ -40,6 +40,8 @@
     -Tarea: poner el dia 24 oct.
 - Manel
     - Tarea: poner el día 8 y 28
+-Pablo Soriano:
+    - Tarea: poner el dia 13 oct.
 - Oriol
     - Tarea: descomentar el css
 - Dani
