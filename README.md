@@ -34,13 +34,13 @@
     - Tarea: poner el dia 9 oct y quitar comentario css.
 - Alex
     - Tarea: poner el dia 27 oct.
--Carlos
+- Carlos
     -Tarea: poner el dia 22 oct.
--Samuel
+- Samuel
     -Tarea: poner el dia 24 oct.
 - Manel
     - Tarea: poner el día 8 y 28.
--Pablo Soriano:
+- Pablo Soriano:
     - Tarea: poner el dia 13 oct.
 - Oriol
     - Tarea: descomentar el css
