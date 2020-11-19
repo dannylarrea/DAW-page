@@ -35,9 +35,9 @@
 - Alex
     - Tarea: poner el dia 27 oct.
 - Carlos
-    -Tarea: poner el dia 22 oct.
+    - Tarea: poner el dia 22 oct.
 - Samuel
-    -Tarea: poner el dia 24 oct.
+    - Tarea: poner el dia 24 oct.
 - Manel
     - Tarea: poner el día 8 y 28.
 - Pablo Soriano:
